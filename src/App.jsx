@@ -77,7 +77,7 @@ function CategoryPage() {
                 <div className="hero-copy">
                     <p className="kicker">Categoria</p>
                     <h1>{category.label}</h1>
-                    <p>Todas as receitas desta secao em uma grade rapida e responsiva.</p>
+                    <p></p>
                 </div>
             </section>
 
